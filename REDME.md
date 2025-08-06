@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository** (if using Git):
    ```bash
-   git clone <https://github.com/Migo205/Docker_Hub_web>
+   git clone https://github.com/Migo205/Docker_Hub_web
    cd Docker_Hub_web 
 Pull the Docker Image: The project uses a custom Docker image hosted on Docker Hub. Pull the image using the following command:
 docker pull mego205/mego-web
